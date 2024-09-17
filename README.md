@@ -10,7 +10,7 @@ h2>
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/embed/DeHxdra0ayPQc" width="480" height="274"  />
+<img align="right" width="480" height="274" src="https://giphy.com/embed/DeHxdra0ayPQc"   />
 
 ###
 
