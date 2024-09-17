@@ -10,7 +10,7 @@ h2>
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ffullmetal-alchemist-brotherhood-edward-elric&psig=AOvVaw3OnLSjzhpDs34EdS1d7oZM&ust=1726683303399000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiw3NrKyogDFQAAAAAdAAAAABAR"  />
+<img align="right" height="150" src="https://giphy.com/gifs/red-blonde-DeHxdra0ayPQc"  />
 
 ###
 
