@@ -10,7 +10,7 @@ h2>
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/imgres?q=edward%20fullmetal%20gif&imgurl=https%3A%2F%2Fmedia.tenor.com%2FGmbkcm5sawwAAAAM%2Fedward-elric-fmab.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fedward-fullmetal-alchemist-gifs&docid=EnNWBsCD1mZTkM&tbnid=1-KOZJMiyBwDuM&vet=12ahUKEwi9tM_XysqIAxUXkZUCHf6lOjwQM3oECBcQAA..i&w=220&h=220&hcb=2&ved=2ahUKEwi9tM_XysqIAxUXkZUCHf6lOjwQM3oECBcQAA"  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ffullmetal-alchemist-brotherhood-edward-elric&psig=AOvVaw3OnLSjzhpDs34EdS1d7oZM&ust=1726683303399000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiw3NrKyogDFQAAAAAdAAAAABAR"  />
 
 ###
 
