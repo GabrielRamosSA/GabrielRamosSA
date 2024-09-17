@@ -9,7 +9,7 @@ h2>
 </div>
 
 ###
- <img align="right" src="https://giphy.com/embed/DeHxdra0ayPQc" width="100%" height="100%">
+
 ###
 
 <div align="left">
