@@ -1,47 +1,47 @@
-<h2 align="left">Hi 👋! My name is Gabriel Ramos and I'm a Programmer, from Brazil</
+<h2 align="left"> Hi 👋, I'm Gabriel Ramos
+ Programmer | Full-Stack Developer | Tech Enthusiast from Brazil</
 h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielRamosSA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielRamosSA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <h3>⚡ Github Stats & Most Used Languages ⚡</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielRamosSA&theme=dracula&show_icons=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRamosSA&theme=dracula&layout=compact" height="180" alt="languages graph" />
 </div>
 
 ###
-  <img align="right" height="150" src=""  />
-###
+<div align="center" style="margin-top: 50px;">
+ <p>
+  <img height="200" src="https://github.com/GabrielRamosSA/GabrielRamosSA/blob/main/tumblr_mpe55zWE2s1rvhek2o1_500.gif" alt="Descrição do GIF">
+</p>
+</div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+<div align="center">
+  <h3>🛠 Languages & Tools 🛠</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"/>
 </div>
 
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+<div align="center">
+  <h3>📱 Connect with me 📱</h3>
+  <a href="https://www.instagram.com/gabrielrmxs/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram logo"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn logo"/>
+  </a>
+  <a href="https://www.twitch.tv/seu-usuario">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="30" alt="Twitch logo"/>
+  </a>
 </div>
-
 
 ###
 
@@ -49,10 +49,8 @@ h2>
 
 
 <div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielRamosSA}/count.svg" /></p> 
-  <br>
+  <h3>👀 Visitors Count 👀</h3>
+  <img src="https://profile-counter.glitch.me/{GabrielRamosSA}/count.svg" alt="Visitor Count" />
 </div>
 
 
