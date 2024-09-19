@@ -36,7 +36,7 @@ h2>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram logo"/>
   </a>
   <a href="https://www.linkedin.com/in/seu-usuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn logo"/>
+    <img src="www.linkedin.com/in/gabriel-ramos-6b9013305&logo=linkedin&logoColor=white" height="30" alt="LinkedIn logo"/>
   </a>
   <a href="https://www.twitch.tv/seu-usuario">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="30" alt="Twitch logo"/>
