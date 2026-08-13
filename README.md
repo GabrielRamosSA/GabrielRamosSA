@@ -1,5 +1,5 @@
 <h2 align="left"> Hi 👋, I'm Gabriel Ramos
- Programmer | Front-Web Developer | Tech Enthusiast from Brazil</
+ Programmer | Front-Web Developer </
 h2>
 
 ###
